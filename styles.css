@@ -3,8 +3,7 @@
     height: 20vh;
     background-color: lightblue;
     display: flex;
-    text-align: center; 
-    vertical-align: center;
+    text-align: vertical center;
 }
 
 .box-container {
