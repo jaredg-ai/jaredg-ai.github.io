@@ -3,7 +3,7 @@
     height: 20vh;
     background-color: lightblue;
     display: flex;
-    text-align: center;
+    text-align: center; vertical-align: auto;
 }
 
 .box-container {
@@ -11,5 +11,5 @@
     height: auto;
     display: flex;
     justify-content: space-evenly;
-    
+
 }
